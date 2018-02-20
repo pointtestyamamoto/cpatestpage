@@ -1,5 +1,13 @@
+<!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+<title>CPA Test</title>
+</head>
+
 <body>
-testページですよ
+<main>
+  <h1>テストページですよ</h1>
+</main>
 </body>
 </html>
